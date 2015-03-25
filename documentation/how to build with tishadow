@@ -1,0 +1,13 @@
+ti build -p ios -F iphone --tishadow --retina
+ti build -p ios -F ipad --tishadow
+
+
+
+open /usr/local/lib/node_modules/tishadow
+
+
+(
+/Users/jfoster/documents/android/sdk/platform-tools/adb push ~/Downloads/Genymotion-ARM-Translation_v1.1.zip  /sdcard/
+/Users/jfoster/documents/android/sdk/platform-tools/adb reboot
+/Users/jfoster/documents/android/sdk/platform-tools/adb push ~/Downloads/gapps-kk-20140606-signed.zip  /sdcard/
+/Users/jfoster/documents/android/sdk/platform-tools/adb reboot
