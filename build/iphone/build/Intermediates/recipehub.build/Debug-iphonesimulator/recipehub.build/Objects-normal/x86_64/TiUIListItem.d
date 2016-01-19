@@ -1,0 +1,49 @@
+dependencies: \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiUIListItem.m \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiUIListItem.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiUIListView.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiUIView.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiProxy.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiEvaluator.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/KrollContext.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiToJS.h \
+  headers/JavaScriptCore/TiCore.h headers/JavaScriptCore/Ti.h \
+  headers/JavaScriptCore/TiBase.h headers/JavaScriptCore/TiContextRef.h \
+  headers/JavaScriptCore/TiObjectRef.h \
+  headers/JavaScriptCore/TiValueRef.h \
+  headers/JavaScriptCore/WebKitAvailability.h \
+  headers/JavaScriptCore/TiStringRef.h \
+  headers/JavaScriptCore/TiStringRefCF.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/KrollCallback.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/KrollObject.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiBindingRunLoop.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiBase.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiThreading.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiPublicAPI.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiAnimation.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiPoint.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiDimension.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiColor.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/ListenerEntry.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiModule.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiUtils.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/WebFont.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiFile.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiBuffer.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiBlob.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/LayoutConstraint.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiGradient.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiUIListViewProxy.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiViewProxy.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiRect.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiViewTemplate.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiUIListSectionProxy.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiUIListItemProxy.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/TiSelectedCellbackgroundView.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/ImageLoader.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/APSHTTPClient/APSHTTPClient.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/APSHTTPClient/APSHTTPRequest.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/APSHTTPClient/APSHTTPResponse.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/APSHTTPClient/APSHTTPPostForm.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/APSHTTPClient/APSHTTPHelper.h \
+  /Users/jfoster/Apps/Mobile/titanium/recipehub/build/iphone/Classes/Webcolor.h
